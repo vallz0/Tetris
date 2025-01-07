@@ -1,2 +1,2 @@
 # Tetris-with-python
-estudo de pygame e POO
+This project is a Tetris game implemented in Python using Object-Oriented Programming (OOP). It was developed as a learning exercise to understand how to structure a game with classes and methods for better modularity and maintainability.
